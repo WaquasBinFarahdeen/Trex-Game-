@@ -149,7 +149,7 @@ function draw() {
   }
   textSize(20);
   fill("black")
-  text("HighScore : " + scoreHigh,115,50);
+  text("HighScore : " + scoreHigh,1150,50);
   
   
   
